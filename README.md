@@ -14,6 +14,7 @@
 !Unban{username#tag):UnBans the banned user permanently from the server and sends a DM<br>
 !clear:Clears the messages in the server<br>
   ....And a lot more<br>
+ <hr>
   <h1> Music </h1>
   !play{songname}: Plays song <br>
   !stop: Stops the song <br>
@@ -24,11 +25,14 @@
   !queue: Shows the songs in queue <br>
   !shuffle: Shuffles the queue<br>
   ....And a lot more<br>
+  <hr>
   <H1> Information </h1>
   !userinfo/whois: Shows the userinfo <br>
   !server_info: Shows the server info <br>
   !info: Information about the bot <br>
   !dev_info: Developing Information about the bot <br>
+ 
+  <hr>
     <H1> Fun Commands </h1>
   !treat{mentionuser}: Gives treat <br>
   !ping: Returns latency <br>
