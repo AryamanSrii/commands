@@ -43,7 +43,7 @@
   !UNFLIP: Unflips the table <br>
   <hr>
 
-<img src="https://cdn.discordapp.com/attachments/771998022807584797/786540910812200970/White_Red_and_Orange_Badge_Recess_Food_Festival_Logo_4.gif" alt="RKS" width="500" height="600">
+<img src="https://cdn.discordapp.com/attachments/771998022807584797/786540910812200970/White_Red_and_Orange_Badge_Recess_Food_Festival_Logo_4.gif" alt="RKS" width="800" height="800">
 </center>
 </body>
 </head>
