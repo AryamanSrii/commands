@@ -1,6 +1,5 @@
 <htmtl>
 <head>
-<title> RKS:Moderation Music Social Chatbot </title>
  <center> <h1> RKS:Moderation Music Social Chatbot </h1>
  
 <body>
