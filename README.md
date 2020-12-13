@@ -1,6 +1,6 @@
 <htmtl>
 <head>
-<title> RKS:Moderation Music Social Chatbot </title>
+
  <center> <h1> RKS:Moderation Music Social Chatbot </h1>
  
 <body>
@@ -9,13 +9,13 @@
   <a href="https://rksbot.netlify.app/">Official Website</a><br>
   <hr>
 <h1> MODERATION </H1>
-!Mute{@user}:Mutes the user<br>
-!Unmute{@user}:Unmutes the user<br>
 !Kick{@user}{reason}:Kicks the user from the server and sends a DM<br>
 !Ban{@user}{reason}:Bans the user permanently from the server and sends a DM<br>
 !Unban{username#tag):UnBans the banned user permanently from the server and sends a DM<br>
 !clear:Clears the messages in the server<br>
-  ....And a lot more<br>
+!clear100: Clear 100 messages<br>
+!clear1000: Clear 1000 messages <br>
+!warn{@username}(reason): Warns the users
   <hr>
   <h1> Music </h1>
   !play{songname}: Plays song <br>
